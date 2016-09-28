@@ -4,5 +4,11 @@ body {
 }
 h1 {
 	background-color: black;
-	color: red
+	color: red;
+	border-style: solid;
+	border-color: blue;
+}
+h2 {
+	background-color: yellow
+	color:black;
 }
